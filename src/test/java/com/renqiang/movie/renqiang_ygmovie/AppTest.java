@@ -1,4 +1,4 @@
-package com.renqiang.zhihu.renqiang_zhihu;
+package com.renqiang.movie.renqiang_ygmovie;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
